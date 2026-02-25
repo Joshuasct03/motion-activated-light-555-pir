@@ -40,7 +40,7 @@ To design a low-cost automatic lighting system that activates a load when motion
 
 ## 🧪 Prototype
 
-![Prototype](images/prototype.jpg)
+![Prototype](images/prototype.png)
 
 ---
 
